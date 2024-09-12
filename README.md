@@ -1,4 +1,4 @@
-# Tourism_Project PROJECT LINK(staticwebtrsm.ccbp.tech)
+# Tourism_Project
 This is a static website designed to showcase popular tourist destinations, attractions, and travel guides. The website offers a clean and responsive design, providing users with essential travel information and a visual tour of different places around the world.
 
 Technologies Used
